@@ -1,0 +1,15 @@
+{
+  "name": "introduction-to-reactive-programming",
+  "version": "1.0.0",
+  "description": "RexJS egghead's course code ",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Oleh Makarov",
+  "license": "ISC",
+  "dependencies": {
+    "rxjs": "^5.5.5",
+    "serve": "^6.4.1"
+  }
+}
